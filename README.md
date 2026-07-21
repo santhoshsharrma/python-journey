@@ -4,11 +4,11 @@ My Python learning journey - learning with the mistakes, solving them without th
 
 ## Topics Covered Today
 
-This repository contains my daily Python practice, exercises, and small projects while learning Python for Software Engineering.
+This repository contains my day-wise Python practice, exercises, and small projects while learning Python for Software Engineering.
 
 ## Day 1 - Python Basics
 
-### Topics Covered
+### Topics Covered Today
 
 - Python introduction
 - Printing output
@@ -43,11 +43,9 @@ This repository contains my daily Python practice, exercises, and small projects
 ### 2. Age and Marital Status Classifier
 - Practiced multiple conditions
 - Learned how `if/elif/else` flows work
-- Debugged incorrect conditional logic
 
 ### 3. Senior Discount Calculator
 - Used nested `if` statements
-- Applied business rules using conditions
 
 ### 4. Mini Quiz Game
 - Used:
@@ -56,7 +54,7 @@ This repository contains my daily Python practice, exercises, and small projects
   - Score tracking
   - Conditional statements
 
-## Key Lessons Learned
+## Key Lessons Learned Today
 
 - `input()` always returns a string
 - Type conversion is needed when working with numbers
