@@ -2,7 +2,7 @@
 
 My Python learning journey - learning with the mistakes and documenting my journey from scratch.
 
-## Topics Covered Today
+## Purpose
 
 This repository contains my day-wise Python practice, exercises, and small projects while learning Python for Software Engineering.
 
@@ -54,7 +54,7 @@ This repository contains my day-wise Python practice, exercises, and small proje
   - Score tracking
   - Conditional statements
 
-## Key Lessons Learned Today
+### Key Lessons Learned Today
 
 - `input()` always returns a string
 - Type conversion is needed when working with numbers
@@ -62,3 +62,20 @@ This repository contains my day-wise Python practice, exercises, and small proje
 - Debugging errors is part of programming
 - Writing logic before writing code makes programming easier
 
+## Day 2 - Loops
+
+### Topics covered today:
+
+- Loops Introduction
+- For loop
+- While loop
+- Nested loops
+- `range()`
+- Understanding the use of `end = ' '` with `print()`
+- Understood Outer and Inner loops.
+
+### Key Lessons learned Today:
+- How `range()` dynamically changes everything.
+- Each loop variable gets its own `range()`
+- `print()` with no arguments moves to a new line.
+- Tracing variables one iteration at a time makes nested loops easier to understand
