@@ -85,7 +85,9 @@ If we had used range(i) inside the inner loop, it would print this:
 0 1 2
 0 1 2 3 
 
-why? because inside the inner loop, when i = 1, range(i) becomes range(1) so j prints a digit before 1.
+why? because inside the inner loop, when i = 1, range(i) becomes range(1).
+so when i = 1, range(i) becomes range(1), which contains only 0.
+When i = 4, it becomes range(4), which contains 0, 1, 2, 3. Python's range() excludes the stop value..
 and when i = 4, j treats it as range(4) thus printing before 4.
 
 
