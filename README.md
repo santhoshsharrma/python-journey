@@ -1,6 +1,6 @@
-# Learning Python Everyday
+# Learning Python
 
-My Python learning journey - learning with the mistakes, solving them without the help of ai.
+My Python learning journey - learning with the mistakes and documenting my journey from scratch.
 
 ## Topics Covered Today
 
