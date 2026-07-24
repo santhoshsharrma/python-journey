@@ -1,7 +1,7 @@
-# AN example to provide a senior discount using nested if else
+# An example to provide a senior discount using nested if else condtions
 age = input("Please enter your age: ")
-age_renew = int(age)
-member_check = input("Are you a member of our store? (yes/no)").lower()
+age_renew = int(age) # Type Conversion
+member_check = input("Are you a member of our store? (yes/no)").lower() # Case insensitive
 
 if age_renew>=60:
     if member_check == "yes":
