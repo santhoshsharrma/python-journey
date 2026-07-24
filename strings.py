@@ -137,11 +137,13 @@ print(language[0:]) # all
 print(language[-3:]) # last three
 
 # Reversing a String
+
 print(language[::-1])
 '''
 Here, start works in such a way when step is postive, it starts from beginning. else if negative, starts from the end.
 1: move forward one by one
 -1: move from backward one by one
 '''
-
+print(language[::1])
+print(language[0:5:2])
 print(language[0::2]) # Rs rgamn
