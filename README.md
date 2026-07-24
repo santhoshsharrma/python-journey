@@ -78,4 +78,28 @@ This repository contains my day-wise Python practice, exercises, and small proje
 - How `range()` dynamically changes everything.
 - Each loop variable gets its own `range()`
 - `print()` with no arguments moves to a new line.
-- Tracing variables one iteration at a time makes nested loops easier to understand
+- Tracing variables one iteration at a time makes nested loops easier to understand.
+
+## Day 3 - Strings
+
+### Topics Covered Today:
+
+- Introduction to Strings
+- `len()` of the Strings
+- Multiline Strings
+- String concatenation
+- Escape Sequences
+- String Formatting
+- String Interpolation(fstrings)
+- Access through Index values
+- String Slicing
+- Reversing a String
+
+### Key Lessons learnt Today:
+- I Understood how syntax matters more when it comes to code logic for Strings
+- Explored how Concatenation ACTUALLY works by experimenting different examples.
+- I observed how `.format()` can be better than old ways to formatting
+- Finally realised fstrings are more clean and readable than old methods of formatting.
+- Understood how machine understands Indexes and how we can access the strings through index values.
+- Learnt Slice Notation and how the logic works.
+- The key lesson that i learnt today is that no matter how overwhelming we may once feel when we learn new topics, Once we understand the principles and logic of the topic, it becomes Easier.
