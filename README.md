@@ -103,3 +103,25 @@ This repository contains my day-wise Python practice, exercises, and small proje
 - Understood how machine understands Indexes and how we can access the strings through index values.
 - Learnt Slice Notation and how the logic works.
 - The key lesson that i learnt today is that no matter how overwhelming we may once feel when we learn new topics, Once we understand the principles and logic of the topic, it becomes Easier.
+
+## Day 4 - String Methods
+
+### Topics Covered Today:
+- String Methods such as:
+- `.capitalize()`
+- `.count()`
+- `.endswitch()`
+- `.find()`
+- `.rfind()`
+- `.index()`
+- `.isalnum()`
+- `.isalpha()`
+- `.isdecimal()`
+- `.join()`
+- `.replace()`
+- `.title()`
+- `.swapcase()`
+
+### Key Lessons Learnt Today:
+- I understood how methods work in python.
+- I made few mistakes but this is how i realised how methods make the code clean, fast and efficient.
