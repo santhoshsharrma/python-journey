@@ -38,7 +38,41 @@ print(journey.index(sub_string))
 sub_stringOne = 'ab'
 # print(journey.index(sub_stringOne)) -> Value Error
 
-# 7) isalnum() -> Checks alphanumeric character, does not count space
+# 7) isalnum() -> Checks alphanumeric character, does not count space or characters
 
 exampleOne = 'My name is Luna'
 
+print(exampleOne.isalnum())
+
+exampleTwo = 'HelloPeople'
+print(exampleTwo.isalnum())
+
+# 8) isalpha() -> Checks if all string elements are alphabet characters (a-z and A-Z)
+print(exampleTwo.isalpha())
+
+# 9) isdecimal() -> Checks if all characters in a string are decimal (0-9)
+
+Date ='12'
+print(Date.isdecimal())
+Month = 'June'
+print(Month.isdecimal())
+
+# 10) join(): Returns a concatenated string
+web_tech = ['HTML', 'CSS', 'JavaScript', 'React']
+result = ' '.join(web_tech)
+print(result) # 'HTML CSS JavaScript React'
+
+# 11) replace(): Replaces substring with a given string
+challenge = 'thirty days of python'
+print(challenge.replace('python', 'coding')) # 'thirty days of coding'
+
+# 12) title(): Returns a title cased string
+challenge = 'thirty days of python'
+print(challenge.title()) # Thirty Days Of Python
+
+# 13) swapcase(): Converts all uppercase characters to lowercase.
+# And all lowercase characters to uppercase characters
+challenge = 'thirty days of python'
+print(challenge.swapcase())   # THIRTY DAYS OF PYTHON
+challenge = 'Thirty Days Of Python'
+print(challenge.swapcase())  # tHIRTY dAYS oF pYTHON
