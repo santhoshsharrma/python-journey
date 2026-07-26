@@ -170,3 +170,58 @@ print(len(it_companies))
 
 # Print the first, middle and last company
 
+print(it_companies[0],it_companies[1],it_companies[-1])
+
+# Print the list after modifying one of the companies
+
+it_companies[0] = 'Tesla'
+print(it_companies)
+
+# Add an IT company to it_companies
+
+it_companies.append('Facebook')
+print(it_companies)
+
+# Insert an IT company in the middle of the companies list
+
+it_companies.insert(4, 'Telegram')
+print(it_companies)
+
+# Change one of the it_companies names to uppercase (IBM excluded!)
+
+it_companies[0] = "TESLA"
+print(it_companies)
+
+# Join the it_companies with a string '#;  '
+
+print(' #'.join(it_companies))
+
+# Check if a certain company exists in the it_companies list.
+
+check_company = 'Google' in it_companies
+print(check_company)
+
+# Sort the list using sort() method
+
+it_companies.sort()
+print(it_companies)
+
+# Reverse the list in descending order using reverse() method
+
+it_companies.reverse()
+print(it_companies)
+
+# Slice out the first 3 companies from the list
+it_companies.sort()
+print(it_companies)
+slice_comp = it_companies[:3]
+print(slice_comp)
+
+# Slice out the last 3 companies from the list
+slice_comp = it_companies[-3:]
+print(slice_comp)
+
+# Remove the first IT company from the list
+
+del it_companies[0]
+print(it_companies)
