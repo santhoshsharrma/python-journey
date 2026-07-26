@@ -125,3 +125,29 @@ This repository contains my day-wise Python practice, exercises, and small proje
 ### Key Lessons Learnt Today:
 - I understood how methods work in python.
 - I made few mistakes but this is how i realised how methods make the code clean, fast and efficient.
+
+## Day 5 - Lists
+
+### Topics Covered Today:
+- Introduction to lists
+- positive indexing
+- negative indexing
+- unpacking list items
+- modifying list items
+- checking list items
+- Adding items to list
+- Deleting items to list:
+  `.remove()`
+  `.pop()`
+  `del var[index]`
+- Clearing list items
+- Copying a list
+- Joining a list
+- Reversing a list
+- Sorting list items
+  `.sort()`
+  `print(sorted(var_name)`
+
+### Key Lessons Learnt Today:
+- I learnt that prior topics such as concatenation, unpacking items, indexing, and methods are used in upcoming topics too
+- The concept may take a while, but it helps us further to think efficiently and unlocking multiple techniques to solve one problem.
