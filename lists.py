@@ -159,3 +159,14 @@ print(last_item)
 # Declare a list called mixed_data_types, put your(name, age, height, marital status, address)
 mixed_data_types = ['Max',20,180,'single','Earth']
 print(mixed_data_types)
+
+# Declare a list variable named it_companies and assign initial values Facebook, Google, Microsoft, Apple, IBM, Oracle and Amazon.
+
+it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
+print(it_companies)
+
+# Print the number of companies in the list
+print(len(it_companies))
+
+# Print the first, middle and last company
+
