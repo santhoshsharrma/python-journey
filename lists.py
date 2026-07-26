@@ -137,3 +137,25 @@ print(fruits)          # Sorted in alphabetical order
 veg = ['Carrot','Beetroot','Chickpea']
 print(sorted(veg))
 
+# Practise Exercises from 30-days-of-python github repo
+empty = []
+print(empty)
+
+# Declare a list with more than 5 items
+empty = ['Banana',205,'Germany','France','New York','Python']
+print(empty)
+
+# Find the length of your list
+print(len(empty))
+
+# Get the first item, the middle item and the last item of the list
+first_item = empty[0]
+second_item = empty[1]
+last_item = empty[-1]
+print(first_item)
+print(second_item)
+print(last_item)
+
+# Declare a list called mixed_data_types, put your(name, age, height, marital status, address)
+mixed_data_types = ['Max',20,180,'single','Earth']
+print(mixed_data_types)
