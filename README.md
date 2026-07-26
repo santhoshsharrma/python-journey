@@ -151,3 +151,4 @@ This repository contains my day-wise Python practice, exercises, and small proje
 ### Key Lessons Learnt Today:
 - I learnt that prior topics such as concatenation, unpacking items, indexing, and methods are used in upcoming topics too
 - The concept may take a while, but it helps us further to think efficiently and unlocking multiple techniques to solve one problem.
+- Practise help us A LOT in remembering what we learnt.
