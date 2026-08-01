@@ -1,4 +1,4 @@
-# Learning Python
+# Python from scratch 
 
 My Python learning journey - learning with the mistakes and documenting my journey from scratch.
 
